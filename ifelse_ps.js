@@ -1,85 +1,85 @@
-const  isRainFalling = true
-console.log(isRainFalling)
+// const  isRainFalling = true
+// console.log(isRainFalling)
 
-if(isRainFalling==true){
-    console.logI("stay")
-}
-else{
-    console.log("leave")
-}
+// if(isRainFalling==true){
+//     console.logI("stay")
+// }
+// else{
+//     console.log("leave")
+// }
 
 
-palindrome
+// //palindrome
 
-const isPalindrome = prompt("enter a word").toLowerCase()
-const reverse=isPalindrome.split('').reverse().join('')
-console.log(reverse)
-console.log(isPalindrome)
-console.log(reverse==isPalindrome)
+// const isPalindrome = prompt("enter a word").toLowerCase()
+// const reverse=isPalindrome.split('').reverse().join('')
+// console.log(reverse)
+// console.log(isPalindrome)
+// console.log(reverse==isPalindrome)
 
-if(isPalindrome==reverse){
-    document.write("it is palindrome")
-}
-else{
-    document.write("not a palindrome")
-}
+// if(isPalindrome==reverse){
+//     document.write("it is palindrome")
+// }
+// else{
+//     document.write("not a palindrome")
+// }
 
-//age to vote
+// //age to vote
 
-var num=20
-if(num>=18){
-    console.log("eligible for voting")
+// var num=20
+// if(num>=18){
+//     console.log("eligible for voting")
 
-}
-else{
-    console.log("not eligible")
+// }
+// else{
+//     console.log("not eligible")
 
-}
+// }
 
-//marks
+// //marks
 
-const isMarks = prompt("enter marks")
+// const isMarks = prompt("enter marks")
  
 
-if(isMarks>=90){
-    console.log('A grade')
-}
-else
-{
-    if(isMarks>=80){
-    console.log('B grade')
-    }
-else{
-if(isMarks>=70){
-        console.log('C grade')
-    }
-else{
-   if(isMarks>=60){
-       console.log('D grade')
-   }
-else{
-if(isMarks>=50){
-   console.log('E grade')
-}
+// if(isMarks>=90){
+//     console.log('A grade')
+// }
+// else
+// {
+//     if(isMarks>=80){
+//     console.log('B grade')
+//     }
+// else{
+// if(isMarks>=70){
+//         console.log('C grade')
+//     }
+// else{
+//    if(isMarks>=60){
+//        console.log('D grade')
+//    }
+// else{
+// if(isMarks>=50){
+//    console.log('E grade')
+// }
 
-else {
-   console.log('fail')
-}
+// else {
+//    console.log('fail')
+// }
 
-}
-}
-}
-}
+// }
+// }
+// }
+// }
 
-//even or odd
+// //even or odd
 
-var num = 5
-if(num%2==0){
-    console.log('even')
-}
-else{
-    console.log('odd')
-}
+// var num = 5
+// if(num%2==0){
+//     console.log('even')
+// }
+// else{
+//     console.log('odd')
+// }
 
 let income = 300000; 
 let tax = 0;
